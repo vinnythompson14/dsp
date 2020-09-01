@@ -88,7 +88,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 <img src="https://render.githubusercontent.com/render/math?math=P(Identical \ Twin \ | \ Twin) = \frac{P(Twin \ | \ Identical \ Twin) \times P(Identical \ Twin)}{P(Twin)}">
 <img src="https://render.githubusercontent.com/render/math?math=P(Identical \ Twin \ | \ Twin) = \frac{ (1) \times (\frac{1}{300}) }{(\frac{1}{125} + \frac{1}{300})}">
-<img src="https://render.githubusercontent.com/render/math?math=P(Identical \ Twin \ | \ Twin) = 29.4\%">
+<img src="https://render.githubusercontent.com/render/math?math=P(Identical \ Twin \ | \ Twin) = 0.294">
 
 
 ---
